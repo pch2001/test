@@ -2,4 +2,5 @@
 
 int main(){
     printf();
+    int a=1;
 }
